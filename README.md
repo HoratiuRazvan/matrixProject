@@ -15,3 +15,5 @@ Rezultatul obținut este:
 
 În permanență pe ecran este afișat scorul si numărul de vieți. Scopul este de a obține un scor cât mai mare și de a ajunge până la urmă obișnuit cu transformările și calculele în baza 2.
 ENJOY!
+
+https://www.youtube.com/watch?v=YG53MLDDoww&feature=youtu.be
