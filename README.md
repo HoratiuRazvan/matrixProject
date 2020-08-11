@@ -1,5 +1,6 @@
 # matrixProject
 The ideea of the matrix game is calculating in base 2. We used a Arduino Uno microcontroller, a led matrix(8X8) with a driver(10k resistence, 10 microF condenser), two buttons(10k resistence each), an lcd display and the necessary breadboards and wires.
+<br />
 At the starting of the game we set the wanted dificulty level, using the two buttons. After choosing the level, we press both buttons at the same tame for the game to start. The two buttons have from now on this meaning: the left one is "true" and the right one is "false". Now depending on the choosen dificulty level, there are generated two numbers in base 2 and displayed on the lines 1 and 5 of the led matrix(when a led is turned on it means 1, when it is turned off it means 0) and a matematical sign between the two numbers(+,-,X,/). The scope of the user is to introduce on the line 7 of the led matrix, from right to left, the result of the calculation.
 
 For example, if the first 5 lines are:
@@ -13,6 +14,7 @@ The excepted result is
 
 During all the game on the screen is shown the score that you have and the number of remaining lifes. The scope is to get a big score and to get used with base 2 calculation.
 Enjoy!
+<br />
 https://www.youtube.com/watch?v=YG53MLDDoww&feature=youtu.be
 
 
